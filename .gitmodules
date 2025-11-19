@@ -4,3 +4,6 @@
 [submodule "submodule/vcpkg"]
 	path = submodule/vcpkg
 	url = https://github.com/Microsoft/vcpkg
+[submodule "docs"]
+	path = docs
+	url = https://github.com/Stewinjo/Fo-E-PS-HTMLMap-Maps-Template

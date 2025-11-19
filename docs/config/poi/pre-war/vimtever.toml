@@ -1,9 +1,0 @@
-[Cascadas]
-    name = "Cascadas"
-    class ="pre-war-capital"
-    x = 1945
-    y = 2060
-    zoom_level = 0
-    description = ""
-    link = ""
-    from = 2
